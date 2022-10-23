@@ -1,2 +1,2 @@
 # ty.zhang.github.io
-This is the personal website of Tianyu Zhang.
+This is the personal website for Tianyu Zhang.
